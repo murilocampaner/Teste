@@ -1,1 +1,3 @@
 ok!
+
+Editando arquivo 'ok';
